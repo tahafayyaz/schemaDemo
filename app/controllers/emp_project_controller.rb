@@ -1,0 +1,2 @@
+class EmpProjectController < ApplicationController
+end

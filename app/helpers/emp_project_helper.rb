@@ -1,0 +1,2 @@
+module EmpProjectHelper
+end

@@ -1,0 +1,2 @@
+class RecExpenseController < ApplicationController
+end
